@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Mario Tapia. <br>I'm a Mathematician and a Computer Vision enthusiast. <br>Here I upload my personal projects and some homeworks from my MCs Degree.
+Hi, my name is Mario Tapia. <br>I'm a Mathematician and a Video Games and Computer Vision enthusiast. <br>Here I upload my personal projects and some homeworks from my MCs Degree.
 
 
 ## 🌐 Socials:
